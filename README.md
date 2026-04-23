@@ -1,4 +1,4 @@
-# StockFlow - Inventory Management System
+# StockFlow - Inventory Management System 
 
 StockFlow is a comprehensive Inventory Management System designed to streamline the tracking of products, orders, and stock levels across multiple warehouses. This project demonstrates an end-to-end data engineering workflow, from database schema design and creation to data migration (ETL) and analysis.
 
